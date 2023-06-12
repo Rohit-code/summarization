@@ -1,1 +1,1 @@
-apikey='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'
+apikey='API_KEY'
